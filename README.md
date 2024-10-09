@@ -22,7 +22,6 @@ The model leverages transfer learning by using a pre-trained model (DenseNet121)
 - License
 
 ## Project Structure
-.
 ├── train.py                  # Script to train the model
 
 ├── predict.py                # Script to make predictions on a new image
