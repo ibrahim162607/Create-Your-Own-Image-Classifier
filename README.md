@@ -24,11 +24,17 @@ The model leverages transfer learning by using a pre-trained model (DenseNet121)
 ## Project Structure
 .
 ├── train.py                  # Script to train the model
+
 ├── predict.py                # Script to make predictions on a new image
+
 ├── utils.py                  # Helper functions for model saving, loading, and data preprocessing
+
 ├── cat_to_name.json          # JSON file mapping category numbers to flower names
+
 ├── checkpoint.pth            # Example checkpoint file (model weights)
+
 ├── README.md                 # This README file
+
 └── LICENSE                   # License information
 
 ## Setup
